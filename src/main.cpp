@@ -27,7 +27,7 @@ void OnProgramLoad(const char *pluginName, const char *mainFilePath)
     timers = new Timers();
 }
 
-
+//
 
 void OnPlayerBlind(Player *player, Player *attacker, short entityid, float duration)
 {
