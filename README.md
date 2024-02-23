@@ -7,7 +7,7 @@
   <h3 align="center">[Swiftly] AntiFlash System</h3>
 
   <p align="center">
-    A simple plugin for Swiftly that implements an AntiFlash System.
+    A simple plugin for Swiftly that removes the possibility to get flashed from other teammates.
     <br/>
     <br/>
     <a href="https://github.com/swiftly-solution/swiftly_antiflash/issues">Report Bug</a>
