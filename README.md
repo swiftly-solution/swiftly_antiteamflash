@@ -1,7 +1,6 @@
-<br/>
 <p align="center">
-  <a href="https://github.com/swiftly-solution/swiftly_antiflash">
-    <img src="https://media.discordapp.net/attachments/979452783466000466/1168236894652469248/Swiftly_Logo.png?ex=6575f264&is=65637d64&hm=dd2834983bebeab98d7febd44bb3bd20e9aded13ecefac63cc990b222a9d9e9e&=&format=webp&quality=lossless&width=468&height=468" alt="Logo" width="80" height="80">
+  <a href="https://github.com/swiftly-solution/swiftly_roundendthings">
+    <img src="https://cdn.swiftlycs2.net/swiftly-logo.png" alt="SwiftlyLogo" width="80" height="80">
   </a>
 
   <h3 align="center">[Swiftly] Anti Team Flash</h3>
@@ -9,13 +8,18 @@
   <p align="center">
     A simple plugin for Swiftly that removes the possibility to get flashed from other teammates.
     <br/>
-    <br/>
-    <a href="https://github.com/swiftly-solution/swiftly_antiflash/issues">Report Bug</a>
-    .
-    <a href="https://github.com/swiftly-solution/swiftly_antiflash/issues">Request Feature</a>
   </p>
 </p>
 
+
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/swiftly-solution/swiftly_roundendthings/total" alt="Downloads"> 
+  <img src="https://img.shields.io/github/contributors/swiftly-solution/swiftly_roundendthings?color=dark-green" alt="Contributors">
+  <img src="https://img.shields.io/github/issues/swiftly-solution/swiftly_roundendthings" alt="Issues">
+  <img src="https://img.shields.io/github/license/swiftly-solution/swiftly_roundendthings" alt="License">
+</p>
+
+---
 
 ### Installation 👀
 
@@ -26,3 +30,5 @@
 
 ### Have ideas? 💡
 Join [Swiftly Discord Server](https://swiftlycs2.net/discord)!
+
+---
