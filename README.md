@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/swiftly-solution/swiftly_roundendthings">
+  <a href="https://github.com/swiftly-solution/swiftly_antiteamflash">
     <img src="https://cdn.swiftlycs2.net/swiftly-logo.png" alt="SwiftlyLogo" width="80" height="80">
   </a>
 
@@ -13,10 +13,10 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/swiftly-solution/swiftly_roundendthings/total" alt="Downloads"> 
-  <img src="https://img.shields.io/github/contributors/swiftly-solution/swiftly_roundendthings?color=dark-green" alt="Contributors">
-  <img src="https://img.shields.io/github/issues/swiftly-solution/swiftly_roundendthings" alt="Issues">
-  <img src="https://img.shields.io/github/license/swiftly-solution/swiftly_roundendthings" alt="License">
+  <img src="https://img.shields.io/github/downloads/swiftly-solution/swiftly_antiteamflash/total" alt="Downloads"> 
+  <img src="https://img.shields.io/github/contributors/swiftly-solution/swiftly_antiteamflash?color=dark-green" alt="Contributors">
+  <img src="https://img.shields.io/github/issues/swiftly-solution/swiftly_antiteamflash" alt="Issues">
+  <img src="https://img.shields.io/github/license/swiftly-solution/swiftly_antiteamflash" alt="License">
 </p>
 
 ---
