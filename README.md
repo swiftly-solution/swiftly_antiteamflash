@@ -28,7 +28,7 @@
 
 
 
-### Have ideas? 💡
-Join [Swiftly Discord Server](https://swiftlycs2.net/discord)!
+### Have ideas/Found bugs? 💡
+Join [Swiftly Discord Server](https://swiftlycs2.net/discord) and send a message in the topic from `📕╎plugins-sharing` of this plugin!
 
 ---
